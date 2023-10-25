@@ -158,7 +158,7 @@
   width: 100%; 
   height: 100px; 
   background-color: blue; 
-  grid-column: 1/3; /* Span both columns */
+ /* Span both columns */
 } 
 /* Activity 6 styles */ 
 .content6 {
